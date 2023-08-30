@@ -1,1 +1,2 @@
 # Phasor-Visualization-Using-Python
+Phasors generated using the ESP32 microprocessor were seamlessly transmitted to a cloud-based database (Firebase). These phasors were then efficiently fetched using Python on the user's end and elegantly visualized on a Doppler phasor display. For further details, feel free to request the complete project thesis via email at nouman335383@gmail.com. Thank you for your interest!
